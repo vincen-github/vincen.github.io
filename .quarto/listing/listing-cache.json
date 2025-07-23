@@ -1,0 +1,52 @@
+{
+  "listingMap": {
+    "projects\\projects.qmd": [
+      "os_teaching",
+      "phuse",
+      "dan",
+      "ehr",
+      "sykdomspulsen"
+    ],
+    "rpkg\\rpkg.qmd": [
+      "ggehr",
+      "qtwAcademic"
+    ],
+    "talks\\talks.qmd": [
+      "ph_20220616_splverse",
+      "rstats_20240613_teaching",
+      "rstats_20230721_teaching",
+      "ehr_20240918_betterehr",
+      "community_20240921_quartofriends",
+      "community_20240710_camis"
+    ],
+    "teaching\\teaching.qmd": [
+      "mf9130",
+      "ern4110",
+      "med3007",
+      "r_novice",
+      "workshop_bioinf",
+      "workshop_rladies_zurich"
+    ],
+    "publications\\publications.qmd": [
+      "mf9130",
+      "ern4110",
+      "med3007",
+      "r_novice",
+      "workshop_bioinf",
+      "workshop_rladies_zurich"
+    ],
+    "docs\\publications\\publications.qmd": [
+      "mf9130",
+      "ern4110",
+      "med3007",
+      "r_novice",
+      "workshop_bioinf",
+      "workshop_rladies_zurich"
+    ],
+    "blog\\blog.qmd": [
+      "blog_*/index.qmd",
+      "readnotes_*/index.qmd",
+      "technotes_*/index.qmd"
+    ]
+  }
+}

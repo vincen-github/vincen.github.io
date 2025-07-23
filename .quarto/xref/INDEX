@@ -1,0 +1,200 @@
+{
+  "index.qmd": {
+    "index.html": "8130bfeb"
+  },
+  "misc/literature.md": {
+    "literature.html": "71e1ab0a"
+  },
+  "projects/dan/index.qmd": {
+    "index.html": "21398470"
+  },
+  "projects/ehr/index.qmd": {
+    "index.html": "7fc4a0c4"
+  },
+  "projects/noreden/index.qmd": {
+    "index.html": "0ff7728f"
+  },
+  "projects/nor_mortality/index.qmd": {
+    "index.html": "a97158e4"
+  },
+  "projects/os_teaching/index.qmd": {
+    "index.html": "1409a8c5"
+  },
+  "projects/phuse/index.qmd": {
+    "index.html": "8bfb7f2e"
+  },
+  "projects/projects.qmd": {
+    "projects.html": "eacec3c3"
+  },
+  "projects/sykdomspulsen/index.qmd": {
+    "index.html": "b5624b46"
+  },
+  "rpkg/bayesynergy/index.qmd": {
+    "index.html": "23dbfb79"
+  },
+  "rpkg/covidnor/index.qmd": {
+    "index.html": "2dd396ea"
+  },
+  "rpkg/csalert/index.qmd": {
+    "index.html": "ca9539a8"
+  },
+  "rpkg/csdata/index.qmd": {
+    "index.html": "fffe9c1c"
+  },
+  "rpkg/csmaps/index.qmd": {
+    "index.html": "58409800"
+  },
+  "rpkg/cstime/index.qmd": {
+    "index.html": "b1c0e39a"
+  },
+  "rpkg/ggehr/index.qmd": {
+    "index.html": "f05d44b5"
+  },
+  "rpkg/medicode/index.qmd": {
+    "index.html": "c80db421"
+  },
+  "rpkg/mortanor/index.qmd": {
+    "index.html": "a97d3057"
+  },
+  "rpkg/noreden/index.qmd": {
+    "index.html": "67d608c0"
+  },
+  "rpkg/nowcast/index.qmd": {
+    "index.html": "34d83b1a"
+  },
+  "rpkg/qtwAcademic/index.qmd": {
+    "index.html": "8d2ddd28"
+  },
+  "rpkg/rpkg.qmd": {
+    "rpkg.html": "5b2698ef"
+  },
+  "talks/community_20240710_camis/index.qmd": {
+    "index.html": "96b89d3e"
+  },
+  "talks/community_20240921_quartofriends/index.qmd": {
+    "index.html": "1e5e4ece"
+  },
+  "talks/ehr_20191028_rladies/index.qmd": {
+    "index.html": "1a72615e"
+  },
+  "talks/ehr_20210218_biday/index.qmd": {
+    "index.html": "09c43780"
+  },
+  "talks/ehr_20221013_ml_icu/index.qmd": {
+    "index.html": "1cc4dceb"
+  },
+  "talks/ehr_20240918_betterehr/index.qmd": {
+    "index.html": "c304b60d"
+  },
+  "talks/ph_20220616_splverse/index.qmd": {
+    "index.html": "2ecf1838"
+  },
+  "talks/ph_20230330_sp/index.qmd": {
+    "index.html": "ed0fd27d"
+  },
+  "talks/rstats_20190402_blogdown/index.qmd": {
+    "index.html": "f04f45e1"
+  },
+  "talks/rstats_20230721_teaching/index.qmd": {
+    "index.html": "15708257"
+  },
+  "talks/rstats_20240613_teaching/index.qmd": {
+    "index.html": "e8561435"
+  },
+  "talks/talks.qmd": {
+    "talks.html": "747a829b"
+  },
+  "teaching/cheatsheet_pkgdev/index.qmd": {
+    "index.html": "6c29cea4"
+  },
+  "teaching/ern4110/index.qmd": {
+    "index.html": "316fa8f6"
+  },
+  "teaching/med3007/index.qmd": {
+    "index.html": "02e08ba9"
+  },
+  "teaching/mf9130/index.qmd": {
+    "index.html": "6e7c3edb"
+  },
+  "teaching/r_novice/index.qmd": {
+    "index.html": "98bd6ddb"
+  },
+  "teaching/teaching.qmd": {
+    "teaching.html": "b293221c"
+  },
+  "teaching/workshop_bioinf/index.qmd": {
+    "index.html": "ed1e98e5"
+  },
+  "teaching/workshop_rladies_zurich/index.qmd": {
+    "index.html": "66365a85"
+  },
+  "publications/publications.qmd": {
+    "publications.html": "10abf639"
+  },
+  "docs/publications/publications.qmd": {
+    "publications.html": "45b98f37"
+  },
+  "blog/blog.qmd": {
+    "blog.html": "2bc9ed2f"
+  },
+  "blog/blog_20230103_blogdown2quarto/index.qmd": {
+    "index.html": "6c40eac3"
+  },
+  "blog/blog_20230104_qtwAcademic/index.qmd": {
+    "index.html": "cd2154d3"
+  },
+  "blog/blog_20230112_roche_opensource/index.qmd": {
+    "index.html": "fd297782"
+  },
+  "blog/blog_20230301_ds_clinreport/index.qmd": {
+    "index.html": "c37f336b"
+  },
+  "blog/blog_20230717_teaching/index.qmd": {
+    "index.html": "751642ec"
+  },
+  "blog/blog_20230904_cen2023/index.qmd": {
+    "index.html": "1707fff6"
+  },
+  "blog/blog_20230921_positconf2023/index.qmd": {
+    "index.html": "bc545b72"
+  },
+  "blog/blog_20240923_quartofriends/index.qmd": {
+    "index.html": "65a6161a"
+  },
+  "blog/blog_20241105_positconf2024/index.qmd": {
+    "index.html": "39bd583a"
+  },
+  "blog/readnotes_2023010x_pandemic_gates/index.qmd": {
+    "index.html": "0738547c"
+  },
+  "blog/readnotes_2023010x_preventable_sridhar/index.qmd": {
+    "index.html": "ad98d3de"
+  },
+  "blog/readnotes_20240218_open_source/index.qmd": {
+    "index.html": "f69eabb8"
+  },
+  "blog/readnotes_20240606_bad_pharma/index.qmd": {
+    "index.html": "fb3b4e56"
+  },
+  "blog/technotes_20230111_deployqt/index.qmd": {
+    "index.html": "f62415ce"
+  },
+  "blog/technotes_20230205_clinreport_part1/index.qmd": {
+    "index.html": "a9e18afb"
+  },
+  "blog/technotes_20230220_pkgdown/index.qmd": {
+    "index.html": "b3d1ee04"
+  },
+  "blog/technotes_20230222_clinreport_part2/index.qmd": {
+    "index.html": "bf50f956"
+  },
+  "blog/technotes_20230225_shinyappsio/index.qmd": {
+    "index.html": "060f6e0c"
+  },
+  "blog/technotes_20230228_clinreport_part3/index.qmd": {
+    "index.html": "dffd6485"
+  },
+  "blog/technotes_20230301_clinreport_part4/index.qmd": {
+    "index.html": "4c75d747"
+  }
+}

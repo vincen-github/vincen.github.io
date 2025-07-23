@@ -1,0 +1,32 @@
+project:
+  type: website
+  output-dir: docs
+  
+website:
+  page-navigation: true
+  title: "Wensen Ma's homepage"
+  site-url: https://chizapoth.github.io
+  favicon: misc/info/favicon.jpg
+  repo-url: https://github.com/vincen-github/vincen.github.io
+  repo-actions: [edit, issue]
+  
+  page-footer: 
+    left: "&copy; Copyright 2025, Wensen Ma"
+    right: 
+      - icon: github
+        href: https://github.com/vincen-github/vincen.github.io
+
+  navbar: 
+    background: "#A9CCE3"
+    search: true
+
+        
+      #- text: "CV"
+      #  href: misc/info/CV-CZ-2407.pdf
+
+
+format:
+  html:
+    theme: styles.scss
+
+

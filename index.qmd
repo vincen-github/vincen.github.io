@@ -1,0 +1,55 @@
+---
+title: "Wensen Ma (马文森)"
+image: misc/info/photo.jpg
+about:
+  id: hero-heading
+  template: trestles
+  image-width: 12em
+  image-shape: round
+  links:
+    - icon: mailbox
+      text: vincen.nwu@gmail.com
+      href: mailto:vincen.nwu@gmail.com
+    - icon: google scholar
+      text: Wensen Ma
+      href: https://scholar.google.com/citations?user=LQnVgkQAAAAJ&hl=en
+    - icon: github
+      text: vincen
+      href: https://github.com/vincen-github
+---
+
+::: {#hero-heading}
+
+Hello!
+
+I'm currently pursuing my PhD degree in the Department of Applied Mathematics at Hong Kong Polytechnic University, under the supervision of Prof. [Defeng Sun](https://www.polyu.edu.hk/ama/people/academic-staff/prof-sun-defeng/?sc_lang=en) and Prof. [Houduo Qi](https://www.polyu.edu.hk/ama/people/academic-staff/prof-qi-houduo/?sc_lang=en). Prior to this, I obtained my Bachelor's degree from Northwest University and my Master's degree from Wuhan University. I am grateful for the guidance provided by my Master's supervisor, Prof. [Yuling Jiao](https://jszy.whu.edu.cn/jiaoyuling/en/index.htm).
+
+My current research interests lie in statistical learning and deep learning theory, particularly in deep representation learning, self-supervised learning, and the theoretical foundations for large language models (LLMs). I focus on establishing theoretical understandings and developing novel approaches in these areas.
+
+If you are interested in my work, please feel free to contact me at [vincen.nwu@gmail.com](vincen.nwu@gmail.com).
+
+
+## Publications
+  All publications listed have authors arranged in alphabetical order.
+
+::: panel
+**1. [Unsupervised Transfer Learning via Adversarial Contrastive Training](https://openreview.net/forum?id=90ghmFUwIT)**  
+*Chenguang Duan, Yuling Jiao, Huazhen Lin, Wensen Ma, Jerry Zhijian Yang*  
+[[arXiv]](https://arxiv.org/pdf/2408.08533) | [[openview]](https://openreview.net/forum?id=90ghmFUwIT) | [[code]](https://github.com/vincen-github/ASSRL)
+:::
+
+::: panel
+**2. [Distribution Matching for Self-Supervised Transfer Learning](https://arxiv.org/pdf/2502.14424)**  
+*Yuling Jiao, Wensen Ma, Defeng Sun, Hansheng Wang, Yang Wang*  
+[[arXiv]](https://arxiv.org/pdf/2502.14424) | [[code]](https://github.com/vincen-github/DM)
+:::
+
+## Projects
+::: panel
+[mlimpl](https://github.com/vincen-github/mlimpl) is an open-source machine learning implementation library designed for research and engineering. It features concise implementations of popular algorithms with a focus on code readability and modular design, making it easy for users to understand and extend. Ideal for teaching, prototyping, and reproducible research. The project is actively maintained and welcomes contributions and discussions.
+
+⭐ Stars: 550+ | 🍴 Forks: 130+ (as of July 2025)
+:::
+:::
+
+
