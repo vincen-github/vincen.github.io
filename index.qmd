@@ -1,6 +1,6 @@
 ---
 title: "Wensen Ma (马文森)"
-image: misc/info/photo.jpg
+image: misc/info/photo1.jpg
 about:
   id: hero-heading
   template: trestles
@@ -48,7 +48,7 @@ If you are interested in my work, please feel free to contact me at [vincen.nwu@
 ::: panel
 [mlimpl](https://github.com/vincen-github/mlimpl) is an open-source machine learning implementation library designed for research and engineering. It features concise implementations of popular algorithms with a focus on code readability and modular design, making it easy for users to understand and extend. Ideal for teaching, prototyping, and reproducible research. The project is actively maintained and welcomes contributions and discussions.
 
-⭐ Stars: 550+ | 🍴 Forks: 130+ (as of July 2025)
+⭐ Stars: 560+ | 🍴 Forks: 130+ (as of July 2025)
 :::
 :::
 
