@@ -1,6 +1,6 @@
 ---
 title: "Wensen Ma (马文森)"
-image: misc/info/photo_crop.jpg
+image: misc/info/photo.jpg
 about:
   id: hero-heading
   template: trestles
