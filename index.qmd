@@ -8,8 +8,8 @@ about:
   image-shape: round
   links:
     - icon: mailbox
-      text: vincen.nwu@gmail.com
-      href: mailto:vincen.nwu@gmail.com
+      text: vincen.math@gmail.com
+      href: mailto:vincen.math@gmail.com
     - icon: google scholar
       text: Wensen Ma
       href: https://scholar.google.com/citations?user=LQnVgkQAAAAJ&hl=en
