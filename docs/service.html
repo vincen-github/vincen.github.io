@@ -70,6 +70,16 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 <style>html{ scroll-behavior: smooth; }</style>
+<script>
+  (() => {
+    const oldPrefix = "/vincen.github.io";
+    const path = window.location.pathname;
+    if (window.location.hostname !== "vincen-github.github.io" ||
+        (path !== oldPrefix && !path.startsWith(oldPrefix + "/"))) return;
+    const newPath = path.slice(oldPrefix.length) || "/";
+    window.location.replace("https://wensen-ma.github.io" + newPath + window.location.search + window.location.hash);
+  })();
+</script>
 
 
 </head>

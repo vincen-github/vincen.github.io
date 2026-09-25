@@ -35,6 +35,7 @@ website:
 
 format:
   html:
+    include-in-header: redirect-old.html
     theme:
       - cosmo
       - styles.scss
