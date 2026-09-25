@@ -9,7 +9,7 @@ page-layout: full
 ::: {.hero-copy}
 # Wensen Ma [马文森]{.chinese-name}
 
-[PhD student in Applied Mathematics]{.hero-role}\
+[PhD in Applied Mathematics]{.hero-role}\
 [The Hong Kong Polytechnic University]{.hero-institution}
 
 **I study representation learning through distributional and generative perspectives.** My focus is self-supervised learning and its connection to generative learning; I also study the theory of language models.
