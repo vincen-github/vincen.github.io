@@ -1,32 +1,44 @@
 project:
   type: website
   output-dir: docs
-  
+  render:
+    - index.qmd
+    - talks.qmd
+    - service.qmd
 website:
-  page-navigation: true
-  title: "Wensen Ma's homepage"
-  site-url: https://chizapoth.github.io
+  title: "Wensen Ma"
+  site-url: https://vincen-github.github.io/vincen.github.io/
+  description: "Representation learning, self-supervised learning, generative learning, and the theory of language models."
   favicon: misc/info/favicon.jpg
   repo-url: https://github.com/vincen-github/vincen.github.io
-  repo-actions: [edit, issue]
-  
-  page-footer: 
-    left: "&copy; Copyright 2025, Wensen Ma"
-    right: 
-      - icon: github
-        href: https://github.com/vincen-github/vincen.github.io
-
-  navbar: 
-    background: "#A9CCE3"
-    search: true
-
-        
-      #- text: "CV"
-      #  href: misc/info/CV-CZ-2407.pdf
-
+  navbar:
+    title: "Wensen Ma"
+    background: light
+    collapse-below: lg
+    search: false
+    right:
+      - text: Research
+        href: index.qmd#research
+      - text: Publications
+        href: index.qmd#publications
+      - text: Talks
+        href: talks.qmd
+      - text: Academic Service
+        href: service.qmd
+  page-footer:
+    left: "© 2025–2026 Wensen Ma"
+    right:
+      - text: Google Scholar
+        href: https://scholar.google.com/citations?user=LQnVgkQAAAAJ&hl=en
+      - text: GitHub
+        href: https://github.com/vincen-github
 
 format:
   html:
-    theme: styles.scss
-
-
+    theme:
+      - cosmo
+      - styles.scss
+    toc: false
+    anchor-sections: true
+    smooth-scroll: true
+    lang: en

@@ -1,0 +1,38 @@
+---
+pagetitle: "Academic Service | Wensen Ma"
+description: "Academic service and peer reviewing."
+page-layout: full
+---
+
+::: {.page-shell}
+[Academic community]{.eyebrow}
+
+# Academic Service
+
+::: {.page-intro}
+I have been invited to serve as a reviewer for the following journals and conference.
+:::
+
+::: {.service-section}
+## Journals
+
+::: {.service-list}
+- [Statistical Learning and Data Science (SLADS)](https://www.keaipublishing.com/en/journals/statistical-learning-and-data-science/) [· Section C]{.service-detail}
+- [Statistical Theory and Related Fields](https://www.tandfonline.com/journals/tstf20)
+- [ACM Transactions on Probabilistic Machine Learning](https://dl.acm.org/journal/topml)
+:::
+:::
+
+::: {.service-section}
+## Conferences
+
+::: {.service-list}
+- [International Conference on Learning Representations (ICLR)](https://iclr.cc/)
+:::
+:::
+
+::: {.closing-links}
+[← Back to research](index.qmd)
+[Talks & Presentations →](talks.qmd)
+:::
+:::

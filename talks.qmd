@@ -1,0 +1,118 @@
+---
+pagetitle: "Talks & Presentations | Wensen Ma"
+description: "Oral presentations and posters by Wensen Ma, and selected presentations of joint research by collaborators."
+page-layout: full
+---
+
+::: {.page-shell}
+[Academic exchange]{.eyebrow}
+
+# Talks & Presentations
+
+::: {.page-intro}
+Presentations on self-supervised learning, representation learning, and distribution matching.
+:::
+
+## 2026
+
+::: {.talk-entry}
+[Oral presentation]{.talk-kind}
+
+### Bringing Generative Learning to Representation Learning: Self-Supervised Transfer Learning as Distribution Matching
+
+[4th Joint Conference on Statistics and Data Science · Guiyang, China]{.venue}
+
+::: {.entry-links}
+[Related paper](https://arxiv.org/abs/2502.14424)
+[Conference](https://imstat.org/meetings-calendar/the-4th-joint-conference-on-statistics-and-data-science-jcsds-2026/)
+:::
+:::
+
+::: {.talk-entry}
+[Oral presentation]{.talk-kind}
+
+### Two Sides of the Coin: Generative Learning for Self-Supervised Representation
+
+[EAC-ISBA Conference 2026 · Kunming, China]{.venue}
+
+::: {.entry-links}
+[Conference](https://bayesian.org/eac-isba-2026/)
+:::
+:::
+
+## 2025
+
+::: {.talk-entry}
+[Poster]{.talk-kind .poster}
+
+### Adv-SSL: Adversarial Self-Supervised Representation Learning with Theoretical Guarantees
+
+[NeurIPS 2025 · San Diego, California, USA]{.venue}
+
+::: {.entry-links}
+[Paper](https://proceedings.neurips.cc/paper_files/paper/2025/hash/b216ce49d808157ba14adec9453983a4-Abstract-Conference.html)
+[Code](https://github.com/vincen-github/ASSRL)
+:::
+:::
+
+::: {.talk-entry}
+[Oral presentation]{.talk-kind}
+
+### Distribution Matching for Self-Supervised Transfer Learning
+
+[Conference of Scientific Machine Learning · Beijing, China]{.venue}
+
+::: {.entry-links}
+[Related paper](https://arxiv.org/abs/2502.14424)
+[Program (PDF)](https://c2sml.cn/files/csml2025_schedule.pdf)
+:::
+:::
+
+::: {.talk-entry}
+[Oral presentation]{.talk-kind}
+
+### Distribution Matching for Self-Supervised Transfer Learning
+
+[机器学习数学理论与智慧农业应用研讨会暨 CSIAM 青年论坛 · Wuhan, China]{.venue}
+
+::: {.entry-links}
+[Related paper](https://arxiv.org/abs/2502.14424)
+[Event](https://www.hzau.edu.cn/info/1038/9294.htm)
+:::
+:::
+
+::: {.talk-entry}
+[Oral presentation]{.talk-kind}
+
+### Distribution Matching for Self-supervised Learning
+
+[Young Statisticians Association Annual Meeting & Third International Symposium on Statistical Theory and Applications, Doctoral Forum · Jinan, Shandong, China]{.venue}
+
+::: {.entry-links}
+[Related paper](https://arxiv.org/abs/2502.14424)
+:::
+:::
+
+## 2024
+
+::: {.talk-entry}
+[Oral presentation]{.talk-kind}
+
+### Unsupervised Transfer Learning via Adversarial Contrastive Training
+
+[2nd Joint Conference on Statistics and Data Science · Kunming, China]{.venue}
+
+::: {.entry-links}
+[Related paper](https://arxiv.org/abs/2408.08533)
+:::
+:::
+
+::: {.coauthor-note #collaborator-talks}
+Our related work has also been presented by my co-author **Prof. Yuling Jiao** at [CSML, Shanghai (2024)](https://c2sml.cn/c2sml2024/files/csml_schedule.pdf#page=33), [the CSIAM Annual Meeting, Nanjing (2024)](https://m.csiam.org.cn/1006/202410/2214.html), [BIMSA, Beijing (2024)](https://www.bimsa.cn/research_detail/CSAI.html), [the Third Young Statisticians Spring Forum (2025; video)](https://www.bilibili.com/video/BV1mCXzYhE2i/), [the Chinese Academy of Sciences, Beijing (2025)](https://www.cc.ac.cn/en/article/178/4158.html), [the Frontiers in Statistics Symposium, Xi'an (2026)](https://www.news.cn/ci/20260824/8fd37a3db9b34dc4a116f4c54f64c05f/c.html), [East China University of Science and Technology, Shanghai (2026)](https://news.ecust.edu.cn/2026/0827/c18a202873/page.htm), and [the CSIAM Youth Forum, Wuhan (2026)](https://www.csiam.org.cn/1003/202609/2852.html).
+:::
+
+::: {.closing-links}
+[← Back to research](index.qmd)
+[Academic Service →](service.qmd)
+:::
+:::
