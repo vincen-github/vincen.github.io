@@ -7,7 +7,7 @@ page-layout: full
 ::: {.home-shell}
 :::: {.hero}
 ::: {.hero-copy}
-# Wensen Ma [马文森]{.chinese-name}
+<div class="hero-name" role="heading" aria-level="1">Wensen Ma <span class="chinese-name">马文森</span></div>
 
 [PhD in Applied Mathematics]{.hero-role}\
 [The Hong Kong Polytechnic University]{.hero-institution}
